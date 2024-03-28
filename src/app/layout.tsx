@@ -18,10 +18,7 @@ export const metadata: Metadata = {
   description: "This is my lucky  shop description",
   keywords: ["shop", "ecommerce", "sell"],
   openGraph: {
-    title: {
-      template: "%s - MyShop",
-      default: "MyShop",
-    },
+    title: "kdeyshop",
     description: "This is description shop",
     images: [
       "https://i.pinimg.com/564x/55/a0/44/55a0447cb116f2d012cf1e1906e9042c.jpg",
